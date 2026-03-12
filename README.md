@@ -45,8 +45,10 @@ I am a Software Engineering student. While studying fundamental computer science
 
 ### 📊 GitHub Stats & Contribs
 
+*(These cards update in real-time as I code!)*
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=8ura&show_icons=true&theme=merkoy&hide_border=true" height="160" alt="Buğra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=8ura&show_icons=true&theme=merko&hide_border=true&v=1" height="160" alt="Buğra's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=8ura&theme=merko&hide_border=true" height="160" alt="Buğra's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8ura&layout=compact&theme=merko&hide_border=true&langs_count=5" height="160" alt="Buğra's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8ura&layout=compact&theme=merko&hide_border=true&langs_count=5&v=1" height="160" alt="Buğra's Top Languages" />
 </p>
