@@ -15,7 +15,7 @@ I am a Software Engineering student. While studying fundamental computer science
 ### 🚀 What am I doing?
 * 🎓 Deepening my knowledge of **C++**, **Go (Golang)**, Algorithms, and Data Structures at university.
 * 💻 Keeping my web development fundamentals (**HTML / CSS**) up to date and fresh.
-* 🦆 Building and managing **[quackrs.org](https://quackrs.org)**, a minimalist, fast, and open-source community platform for developers.
+* 🦆 Building and managing **[quackrs.org](https://quackrs.org)**, a fast, and open-source community platform.
 * 🔧 Experimenting with modern web ecosystems and system design.
 
 ### 🛠️ Technologies I Use
