@@ -42,18 +42,11 @@ I am a Software Engineering student. While studying fundamental computer science
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+
 ### 📊 GitHub Stats & Contribs
 
-*(These cards update in real-time as I code!)*
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=8ura&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" alt="Buğra's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8ura&theme=buefy&hide_border=true" alt="Buğra's Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8ura&layout=compact&theme=buefy&hide_border=true&langs_count=6" alt="Buğra's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=8ura&show_icons=true&theme=buefy&hide_border=true" height="160" alt="Buğra's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8ura&theme=buefy&hide_border=true" height="160" alt="Buğra's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8ura&layout=compact&theme=buefy&hide_border=true&langs_count=5" height="160" alt="Buğra's Top Languages" />
 </p>
