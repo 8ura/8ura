@@ -1,35 +1,19 @@
-# Selamlar, Ben Buğra 👋 
-
+# Hello, I'm Buğra 👋
 
 <img src="https://komarev.com/ghpvc/?username=bugskekw&style=flat-square&color=blue" alt=""/>
 
-## Kod yazmayı ve öğrenmeyi seviyorum
+I am a Software Engineering student. While studying fundamental computer science and software architecture, I also develop real-world projects using modern technologies. 
 
-- 🔭 Küçük projeler yapmaya çalışıyorum
-- 🤩 Kendimi kod dillerinde geliştiriyorym
-- ⭐ HTML ve CSS ile başladığım bu serüvene yeni diller ile devam ediyorum
+My current main goal is to solidify my engineering fundamentals at university and simultaneously gain practical experience by building “full-stack” projects.
 
-### Bildiğim diller ve araçlar:
+### 🚀 What am I doing?
+* 🎓 I am deepening my knowledge of **C++**, Algorithms, and Data Structures at university.
+* 💻 I am keeping my web development fundamentals (**HTML / CSS**) up to date and fresh.
+* 🦆 I'm building and managing the **[quackrs.org](https://quackrs.org)** project, a minimalist, fast, and open-source community platform for developers.
+* 🔧 I'm experimenting with modern web ecosystems and system design.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
-
-<br />
-<br />
-
----
-
-### 📺 İstatistikler
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugskekw&theme=dark)
-
-
----
-
-### 📕 En çok kullanılan diller
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugskekw&layout=compact&theme=dark)](https://github.com/bugskekw/github-readme-stats)
-
----
+### 🛠️ Technologies I Use
+*(The ecosystem I actively use to bring my projects to life)*
+* **Frontend:** Next.js, React, Tailwind CSS
+* **Backend & Database:** Node.js, MongoDB
+* **Infrastructure & Tools:** Git, Cloudflare R2
