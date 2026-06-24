@@ -6,14 +6,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Architect+%26+Builder+of+Quackrs.org;Turning+Coffee+Into+Code;Welcome+To+My+Code+Cave" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=F59E0B&center=true&vCenter=true&width=600&lines=;Architect+%26+Builder+of+Quackrs.org;Turning+Coffee+Into+Code;Welcome+To+My+Code+Cave" alt="Typing SVG" />
   </a>
 </p>
 
-I am a Software Engineering student. While studying fundamental computer science and software architecture, I also develop real-world projects using modern technologies. My current main goal is to solidify my engineering fundamentals at university and simultaneously gain practical experience by building full-stack projects.
+I am a student. While studying I also develop real-world projects using modern technologies. My current main goal is to solidify my fundamentals at university and simultaneously gain practical experience by building full-stack projects
 
 ### 🚀 What am I doing?
-* 🎓 Deepening my knowledge of **C++**, Algorithms, and Data Structures at university.
 * 💻 Keeping my web development fundamentals (**HTML / CSS**) up to date and fresh.
 * 🦆 Building and managing **[quackrs.org](https://quackrs.org)**, a fast, and open-source community platform.
 * 🔧 Experimenting with modern web ecosystems and system design.
